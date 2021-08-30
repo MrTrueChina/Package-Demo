@@ -1,0 +1,11 @@
+{
+    "name": "org.mtc.package-demo",
+    "displayName": "package-demo",
+    "version": "0.0.1",
+    "unity": "2020.1.14f1c1",
+    "description": "Unity import package from Github test",
+    "keywords": [ "test", "material" ],
+    "category": "test",
+    "dependencies": {
+    }
+}
